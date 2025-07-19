@@ -1,0 +1,17 @@
+{
+  "name": "01deploy-backend-code",
+  "version": "1.0.0",
+  "description": "how to deploy backend code in production",
+  "license": "ISC",
+  "author": "himanshu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
